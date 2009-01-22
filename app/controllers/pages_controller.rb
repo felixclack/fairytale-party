@@ -6,6 +6,8 @@ class PagesController < ApplicationController
     princess
     book
   ).freeze
+  
+  caches_page :show
 
   def show
     if PAGES.include?(params[:id])
