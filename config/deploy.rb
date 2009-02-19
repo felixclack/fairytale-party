@@ -8,7 +8,7 @@ set :application, 'fparty'
 
 # the rest should be good
 set :repository,  "git@github.com:kid80/fairytale-party.git"
-set :deploy_to, "/home/#{user}/#{domain}" 
+set :deploy_to, "/home/#{user}/#{domain}"
 set :deploy_via, :remote_cache
 set :scm, 'git'
 set :scm_passphrase, "saffron"
