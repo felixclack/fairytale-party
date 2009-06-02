@@ -3,7 +3,7 @@
 
 body
   :font-family "Lucida Grande", sans-serif
-  :background #ffbed3 url(/images/main.jpg) no-repeat 0 0
+  :background #ffbed3
   :color #fff
   
 a
@@ -17,17 +17,18 @@ ul
   :padding 0
   
 #header
-  :background #e07198 url(/images/main.jpg) no-repeat 0 0
+  :background #e17199
   :height 93px
   :width 100%
   h1
     :float left
-    :width 300px
+    :width 286px
+    :margin-left 1em
     a
       :font-size 1em
       :line-height normal
       :position relative
-      :width 300px
+      :width 286px
       :height 93px
       :float left
       :display block
@@ -35,14 +36,14 @@ ul
         :position absolute
         :top 0
         :left 0
-        :width 300px
+        :width 286px
         :height 93px
-        :background url(/images/main.jpg) no-repeat 0 0
+        :background url(/images/logo.gif) no-repeat 0 0
     
   ul#nav
     :float left
     :width auto
-    :margin 20px 0 0 10px
+    :margin 20px 0 0 30px
     li
       :float left
       :margin 0 30px
@@ -59,16 +60,23 @@ ul
         :line-height normal
         &:hover, &:selected
           :color #ddd
+
+.princesses
+  :float right
+  :width 216px
+  :margin 10px 3% 0 0
+  
 .mini_container
-  :padding 20px 30px
-  :background #ffbed3
-  :width 540px
-  :margin 50px 0 0 75px
+  :padding 2%
+  :background #e17199
+  :width 65%
+  :margin 50px 0 0 3%
   :text-align left
   :-moz-border-radius 20px
   :-webkit-border-radius 20px
   :display block
   :opacity 0.8
+  :float left
   h2
     :font-size 1.6em
     :line-height normal
@@ -82,10 +90,20 @@ ul
     :margin 0
     :font-size 1.1em
     :line-height normal
+    &.price
+      :font-weight bold
+      :font-size 1.4em
+  ul
+    :color #333
+    :margin-left 1em
+    :font-size 1.1em
+  li
+    :margin-bottom .5em
+    
 #home .mini_container
   :display none
   
 .packages.mini_container
-  :width 205px
+  :width 29%
   :float left
   :margin-bottom 50px

@@ -1,4 +1,4 @@
-!!! XML
+!!! Transitional
 !!!
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 %head
@@ -25,6 +25,7 @@
       %li#book_link= link_to("Book a party", book_path)
     
   #content
+    .princesses= image_tag "princesses.jpg"
     = yield :layout
 
   <script type="text/javascript">

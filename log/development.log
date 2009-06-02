@@ -4612,3 +4612,501 @@ Rendering template within layouts/application
 Rendering pages/home
 Rendered pages/_home (0.3ms)
 Completed in 14ms (View: 11, DB: 0) | 200 OK [http://fairytale.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 11:58:37) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 49ms (View: 47, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 11:59:04) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 11:59:25) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 11:59:35) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 11:59:47) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.3ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:00:30) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:01:47) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:02:05) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:02:17) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:17:21) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.3ms)
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:18:12) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.3ms)
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:19:15) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.3ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:19:19) [GET]
+  Parameters: {"id"=>"about", "_"=>"1243941559556"}
+Rendering pages/show
+Rendered pages/_about (0.2ms)
+Completed in 28ms (View: 26, DB: 0) | 200 OK [http://fparty.dev/about?_=1243941559556]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:19:22) [GET]
+  Parameters: {"id"=>"book", "_"=>"1243941562722"}
+Rendering pages/show
+Rendered pages/_book (0.3ms)
+Completed in 19ms (View: 16, DB: 0) | 200 OK [http://fparty.dev/book?_=1243941562722]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:19:27) [GET]
+  Parameters: {"id"=>"about", "_"=>"1243941567744"}
+Rendering pages/show
+Rendered pages/_about (0.2ms)
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://fparty.dev/about?_=1243941567744]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:19:29) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.4ms)
+Completed in 316ms (View: 314, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:19:59) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.3ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:20:15) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:20:30) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:20:35) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:20:40) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:20:44) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.3ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:42:50) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.3ms)
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:43:34) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:43:51) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.3ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:44:10) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:44:42) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.3ms)
+Completed in 296ms (View: 294, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:45:03) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:45:17) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:45:21) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:45:47) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:47:04) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:47:47) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:48:13) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:49:04) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.3ms)
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:49:20) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:49:33) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:49:44) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:50:03) [GET]
+  Parameters: {"id"=>"about", "_"=>"1243943403613"}
+Rendering pages/show
+Rendered pages/_about (0.2ms)
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://fparty.dev/about?_=1243943403613]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:50:27) [GET]
+  Parameters: {"id"=>"home"}
+
+
+Haml::SyntaxError (Illegal nesting: nesting within a tag that already has content is illegal.):
+    /app/views/pages/home.html.haml:2
+    /vendor/gems/haml-2.0.5/lib/haml/precompiler.rb:652:in `render_comment'
+    /vendor/gems/haml-2.0.5/lib/haml/precompiler.rb:193:in `process_line'
+    /vendor/gems/haml-2.0.5/lib/haml/precompiler.rb:156:in `precompile'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `each_with_index'
+    /vendor/gems/haml-2.0.5/lib/haml/precompiler.rb:122:in `each'
+    /vendor/gems/haml-2.0.5/lib/haml/precompiler.rb:122:in `each_with_index'
+    /vendor/gems/haml-2.0.5/lib/haml/precompiler.rb:122:in `precompile'
+    /vendor/gems/haml-2.0.5/lib/haml/engine.rb:100:in `initialize'
+    /vendor/gems/haml-2.0.5/rails/../lib/haml/template/plugin.rb:21:in `new'
+    /vendor/gems/haml-2.0.5/rails/../lib/haml/template/plugin.rb:21:in `compile'
+    /vendor/rails/actionpack/lib/action_view/template_handler.rb:11:in `call'
+    /vendor/rails/actionpack/lib/action_view/renderable.rb:21:in `_unmemoized_compiled_source'
+    /vendor/rails/activesupport/lib/active_support/memoizable.rb:57:in `compiled_source'
+    /vendor/rails/activesupport/lib/active_support/memoizable.rb:25:in `__send__'
+    /vendor/rails/activesupport/lib/active_support/memoizable.rb:25:in `memoize_all'
+    /vendor/rails/activesupport/lib/active_support/memoizable.rb:22:in `each'
+    /vendor/rails/activesupport/lib/active_support/memoizable.rb:22:in `memoize_all'
+    /vendor/rails/activesupport/lib/active_support/memoizable.rb:17:in `freeze'
+    /vendor/rails/activesupport/lib/active_support/memoizable.rb:70:in `_pick_template'
+    /vendor/rails/actionpack/lib/action_view/base.rb:348:in `_exempt_from_layout?'
+    /vendor/rails/actionpack/lib/action_controller/layout.rb:241:in `__send__'
+    /vendor/rails/actionpack/lib/action_controller/layout.rb:241:in `candidate_for_layout?'
+    /vendor/rails/actionpack/lib/action_controller/layout.rb:255:in `pick_layout'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:879:in `render_without_benchmark'
+    /vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    /vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    /app/controllers/pages_controller.rb:15:in `show'
+    /vendor/rails/actionpack/lib/action_controller/mime_responds.rb:135:in `call'
+    /vendor/rails/actionpack/lib/action_controller/mime_responds.rb:135:in `custom'
+    /vendor/rails/actionpack/lib/action_controller/mime_responds.rb:164:in `call'
+    /vendor/rails/actionpack/lib/action_controller/mime_responds.rb:164:in `respond'
+    /vendor/rails/actionpack/lib/action_controller/mime_responds.rb:158:in `each'
+    /vendor/rails/actionpack/lib/action_controller/mime_responds.rb:158:in `respond'
+    /vendor/rails/actionpack/lib/action_controller/mime_responds.rb:107:in `respond_to'
+    /app/controllers/pages_controller.rb:14:in `show'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:1253:in `send'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:1253:in `perform_action_without_filters'
+    /vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+    /vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `passenger_orig_perform_action'
+    /vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+    /vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `passenger_orig_perform_action'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/railz/request_handler.rb:53:in `perform_action'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+    /vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `sass_old_process'
+    /vendor/gems/haml-2.0.5/rails/../lib/sass/plugin/rails.rb:19:in `process'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/railz/request_handler.rb:38:in `process_request'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/abstract_request_handler.rb:165:in `main_loop'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/railz/application_spawner.rb:321:in `start_request_handler'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/railz/application_spawner.rb:282:in `handle_spawn_application'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/utils.rb:163:in `safe_fork'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/utils.rb:161:in `fork'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/utils.rb:161:in `safe_fork'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/railz/application_spawner.rb:280:in `handle_spawn_application'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/utils.rb:163:in `safe_fork'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/utils.rb:161:in `fork'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/utils.rb:161:in `safe_fork'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/railz/application_spawner.rb:279:in `handle_spawn_application'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/abstract_server.rb:317:in `__send__'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/abstract_server.rb:317:in `main_loop'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/abstract_server.rb:168:in `start_synchronously'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/abstract_server.rb:135:in `start'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/abstract_server.rb:112:in `fork'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/abstract_server.rb:112:in `start'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/railz/application_spawner.rb:179:in `start'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/spawn_manager.rb:222:in `spawn_rails_application'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/spawn_manager.rb:217:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/spawn_manager.rb:217:in `spawn_rails_application'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/spawn_manager.rb:126:in `spawn_application'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/spawn_manager.rb:251:in `handle_spawn_application'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/abstract_server.rb:317:in `__send__'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/abstract_server.rb:317:in `main_loop'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/lib/passenger/abstract_server.rb:168:in `start_synchronously'
+    /Library/Ruby/Gems/1.8/gems/passenger-2.0.6/bin/passenger-spawn-server:46
+
+Rendered /Users/felix/Sites/fparty/vendor/rails/actionpack/lib/action_controller/templates/rescues/_trace (35.1ms)
+Rendered /Users/felix/Sites/fparty/vendor/rails/actionpack/lib/action_controller/templates/rescues/_request_and_response (0.8ms)
+Rendering /Users/felix/Sites/fparty/vendor/rails/actionpack/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:50:31) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:50:34) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 12:53:48) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 13:00:14) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 13:02:59) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 18ms (View: 13, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 13:03:44) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.3ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 13:03:53) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.3ms)
+Completed in 23ms (View: 20, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 13:03:58) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.3ms)
+Completed in 297ms (View: 295, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 13:04:04) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 13:04:31) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.2ms)
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://fparty.dev/]
+
+
+Processing PagesController#show (for 127.0.0.1 at 2009-06-02 13:04:46) [GET]
+  Parameters: {"id"=>"home"}
+Rendering template within layouts/application
+Rendering pages/home
+Rendered pages/_home (0.3ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://fparty.dev/]
