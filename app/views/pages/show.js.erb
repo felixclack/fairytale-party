@@ -1,1 +1,1 @@
-$("#content").fadeOut("slow", function() {$("#content").empty().append("<%= escape_javascript(render(:partial => params[:id])) %>")}).fadeIn("slow");
+$("#content").fadeOut("slow", function() {$(".content").empty().append("<%= escape_javascript(render(:partial => params[:id])) %>")}).fadeIn("slow");

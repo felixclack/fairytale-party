@@ -26,7 +26,8 @@
     
   #content
     .princesses= image_tag "princesses.jpg"
-    = yield :layout
+    .content
+      = yield :layout
 
   <script type="text/javascript">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
